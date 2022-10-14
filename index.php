@@ -31,7 +31,7 @@
           	<div class="alert alert-error">
                 <a class="close" data-dismiss="alert" href="#">×</a>Incorrect Username or Password!
             </div>
-			<form method="POST" action="" accept-charset="UTF-8">
+			<form method="POST" action="welcome.php" accept-charset="UTF-8">
 			<input type="text" id="username" class="span4" name="username" placeholder="Username">
 			<input type="password" id="password" class="span4" name="password" placeholder="Password">
             <label class="checkbox">
