@@ -29,7 +29,7 @@
 		<div class="span4 offset4 well">
 			<legend>Please Sign In</legend>
           	<div class="alert alert-error">
-                <a class="close" data-dismiss="alert" href="#">×</a>Incorrect Username or Password!
+                <!-- <a class="close" data-dismiss="alert" href="#">×</a>Incorrect Username or Password! -->
             </div>
 			<form method="POST" action="welcome.php" accept-charset="UTF-8">
 			<input type="text" id="username" class="span4" name="username" placeholder="Username">
